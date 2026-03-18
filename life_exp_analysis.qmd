@@ -10,6 +10,8 @@ library(tidyverse)
 library(gapminder)
 ```
 
+# Pre Abstract - about to commit
+
 # Abstract
 
 Here, I re-examine the analysis of Oeppen and Vaupel (2002).
