@@ -9,11 +9,13 @@ author: "William Howell"
 library(tidyverse)
 library(gapminder)
 ```
+
 # Abstract
 
 Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 
 # Analysis
+
 ```{r}
 gapminder::gapminder_unfiltered %>% 
   group_by(year) %>% 
@@ -23,6 +25,9 @@ gapminder::gapminder_unfiltered %>%
   arrange(year) ->
   sumdat
 ```
+
+I am going to add some text here
+
 I added some text
 
 this is even more text
