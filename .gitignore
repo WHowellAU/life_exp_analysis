@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 `Ruserdata
-.Rproj
+*.Rproj
 .DS_Store
+life_exp_analysis_files/
