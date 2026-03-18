@@ -2,7 +2,7 @@
 title: "Life Expectancy Analysis"
 date: today
 format: html
-author: "William C Howell"
+author: "William Howell"
 ---
 
 ```{r}
